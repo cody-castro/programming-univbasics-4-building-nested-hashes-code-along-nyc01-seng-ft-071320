@@ -1,4 +1,4 @@
-third_challenge = {
+def third_challenge = {
    :montague => {
       :patriarch => {name: "Lord Montague", age: "53"},
       :matriarch => {name: "Lady Montague", age: "54"},
@@ -12,4 +12,4 @@ third_challenge = {
       :heroine_friends => []
    }
 }
-
+end
